@@ -1,16 +1,33 @@
 ### Hi there 👋
-
+Mi nombre es Patricia Méndez Tovar
+Radico en la ciudad de Ensenada, Baja California.
 <!--
 **patricia2454/patricia2454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Profile:
+Currently looking for opportunities to acquire professional experience in the fields of programming/application development/testing/process analysis and any other related fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+• Decision Making
+• Teamwork
+• Leadership Adaptability
+• Fast Learner
+• Ability to Work Under Pressure
+• Analytical and Problem-Solving skills
+• SaaS, PaaS, and IaaS in Azure
+• SDLC knowledge
+• Create and analyze diagrams
+• Process Analysis and Design
+
+✓ Bachelor degree in Universidad Virtual del Estado de Guanajuato (Ingeniería en Gestión de Tecnologías de Información)
+✓ Universidad Abierta y a Distancia de México (Licenciatura en derecho 4to. Semestre)
+EXTRA-CURRICULAR ACTIVITIES
+✓ Strategic management (60 hrs)
+✓ Introduction to cyber security (Cisco Networking Academy)
+✓ Database design in Access (20 hrs)
+✓ Database design in Access advanced (20hrs)
+✓ Cyber security fundamentals (LinkedIn Learning)
+✓ IT social engineering (current)
+✓ Full Stack Developer LaunchX (current)
+
+  
