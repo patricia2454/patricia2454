@@ -1,7 +1,7 @@
 ### Hi there 👋
 Mi nombre es Patricia Méndez Tovar
 Radico en la ciudad de Ensenada, Baja California.
-<!--
+Aprendiz de Desarrollo de Software, soy nueva en el mundo de la programación; pero, sigo aprendiendo de manera constante; conozco un poco de Seguridad Cibernética e Ingeniería Social.
 **patricia2454/patricia2454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Profile:
