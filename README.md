@@ -20,7 +20,7 @@ Skills
 • Process Analysis and Design
 
 ✓ Bachelor degree in Universidad Virtual del Estado de Guanajuato (Ingeniería en Gestión de Tecnologías de Información)
-✓ Universidad Abierta y a Distancia de México (Licenciatura en derecho 4to. Semestre)
+
 EXTRA-CURRICULAR ACTIVITIES
 ✓ Strategic management (60 hrs)
 ✓ Introduction to cyber security (Cisco Networking Academy)
@@ -29,5 +29,7 @@ EXTRA-CURRICULAR ACTIVITIES
 ✓ Cyber security fundamentals (LinkedIn Learning)
 ✓ IT social engineering (current)
 ✓ Full Stack Developer LaunchX (current)
+✓ Full Stack Developer Oracle Next Education (One)
+
 
   
