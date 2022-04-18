@@ -19,7 +19,7 @@ Skills
 • Create and analyze diagrams
 • Process Analysis and Design
 
-✓ Bachelor degree in Universidad Virtual del Estado de Guanajuato (Ingeniería en Gestión de Tecnologías de Información)
+✓ Bachelor degree in Universidad Virtual del Estado de Guanajuato (Ingeniería en Gestión de Tecnologías de Información August 2021)
 
 EXTRA-CURRICULAR ACTIVITIES
 ✓ Strategic management (60 hrs)
